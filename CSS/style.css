@@ -1,8 +1,10 @@
+/* inisialisasi warna */
 :root {
   --primary: #b4814f;
   --bg: #010101;
 }
 
+/* reset */
 * {
   margin: 0;
   padding: 0;
